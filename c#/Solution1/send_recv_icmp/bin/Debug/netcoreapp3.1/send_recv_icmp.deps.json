@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "send_recv_icmp/1.0.0": {
+        "runtime": {
+          "send_recv_icmp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "send_recv_icmp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
